@@ -30,7 +30,7 @@ Endpoint utama ada di `http://127.0.0.1:8000`
 - Masuk ke folder `backend/`
 - Buat virtual environment: `python -m venv env`
 - Aktifkan: `env\Scripts\activate`
-- Install dependencies: `pip install -r requirements.txt` (Oh ya, kita perlu buat file ini!)
+- Install dependencies: `pip install -r requirements.txt`
 - Jalankan server: `uvicorn main:app --reload`
 
 **2. Frontend (HTML/JS)**
